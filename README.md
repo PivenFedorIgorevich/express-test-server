@@ -1,13 +1,13 @@
 simple express server for learn
 
-###api:
+api:
 
-```/ - index```
+/ - index
 
-```/user - method get - get all users```
+/user - method get - get all users
 
-```/user/create - method post - create new user```
+/user/create - method post - create new user
 
-```/user/update - method post - update  user```
+/user/update - method post - update  user
 
-```/user/del/:id - method delete - remove user by id```
+/user/del/:id - method delete - remove user by id
